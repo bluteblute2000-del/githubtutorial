@@ -1,2 +1,1 @@
-# githubtutorial
-This is for the lecture video for me.
+hello this is my first blah blah
